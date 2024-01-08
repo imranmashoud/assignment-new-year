@@ -1,0 +1,42 @@
+/* common Style section */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Banner style section */
+
+.banner-header {
+  height: 600px;
+  width: 1320px;
+  margin: 50px auto;
+  position: relative;
+}
+.banner-new-year-section {
+  width: 100%;
+  height: 100%;
+  border-radius: 16px;
+}
+.banner-header .banner-new-year-text {
+  position: absolute;
+  color: white;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.banner-new-year-text p {
+  color: #e0b2b2;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 32px;
+  font-weight: 400;
+}
+.banner-new-year-text h2 {
+  width: 632px;
+  color: #fff;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 95px; /* 131.944% */
+}
