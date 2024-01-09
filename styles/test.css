@@ -13,12 +13,15 @@
 /* Header Banner style section */
 
 .banner-header {
+  background-image: url(../images/Banner\ Image.png);
   height: 600px;
   width: 1320px;
   margin: 50px auto;
   position: relative;
 }
 .banner-new-year-section {
+  background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%);
+
   width: 100%;
   height: 100%;
   border-radius: 16px;
@@ -31,7 +34,7 @@
   transform: translate(-50%, -50%);
 }
 .banner-new-year-text p {
-  color: #e0b2b2;
+  color: #fff;
   text-align: center;
   font-family: Merriweather;
   font-size: 32px;
