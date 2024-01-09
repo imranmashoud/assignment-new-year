@@ -80,7 +80,7 @@
 .party-container {
   width: 1320px;
   height: 600px;
-  background-image: url(/images/Vectorrr.png);
+  background-image: url(../images/Vectorrr.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -283,3 +283,4 @@
   letter-spacing: 1px;
   margin-left: 0;
 }
+/* Footer Style Section */
